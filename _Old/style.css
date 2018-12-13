@@ -1,0 +1,60 @@
+#yellow_logo{
+    height: 3.8rem;
+}
+#header {
+    padding: 10px 0;
+    height: 92px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+  }
+
+
+  #header.header-scrolled {
+    background: #005303;
+    padding: 20px 0;
+    height: 72px;
+    transition: all 0.5s;
+  }
+
+#main-nav{
+    font-family: Arial, Helvetica Neue, sans-serif;
+    text-decoration: none;
+}
+
+#sign_up_btn{
+    font-weight: 400;
+    font-size: 18px;
+    color: #214054;
+    width: 115px;
+    height: 40px;
+}
+
+#onboarding{
+    position: absolute;
+    left: 319px;
+    top: 184px;
+}
+
+#onboarding_text{
+    font-weight: 200;
+    font-size: 45px;
+    color: white;
+    height: 164px;
+    width: 560px;
+    line-height: 55px;
+}
+
+#thick_onboarding{
+    font-weight: 500;
+    font-size: 45px;
+    color: #FFDA00
+}
+
+
+#body{
+    height: 100000px;
+}
